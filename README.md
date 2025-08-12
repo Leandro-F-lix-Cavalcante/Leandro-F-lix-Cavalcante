@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Leandro Félix Cavalcante 👋
 
-💻 Estudante de [Seu Curso] | Aspirante a Desenvolvedor Front-end  
+💻 Estudante de [Análise e Desenvolvimento de Sistemas] | Aspirante a Desenvolvedor Front-end  
 🚀 Foco em **JavaScript**, **React** e interfaces responsivas  
 📚 Apaixonado por aprender e compartilhar conhecimento  
 
@@ -17,7 +17,7 @@
 
 ---
 📫 **Conecte-se comigo:**
-[LinkedIn](link) | [GitHub](link)
+[LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](link)
 
 # To-Do List
 
