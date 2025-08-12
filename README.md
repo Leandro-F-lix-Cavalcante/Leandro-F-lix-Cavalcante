@@ -17,7 +17,7 @@
 
 ---
 📫 **Conecte-se comigo:**
-[LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](link)
+[LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](leandrotottioficial)
 
 # To-Do List
 
