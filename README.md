@@ -28,6 +28,7 @@ Convido você a conhecer meu trabalho e acompanhar minha jornada em Front-end!
 #### 🖥️ Linguagens e Frameworks
 
 <div align="left">
+    <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-239120?style=for-the-badge&logo=PYTHON&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
