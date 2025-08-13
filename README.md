@@ -11,7 +11,7 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaix
 
 🚀 Perfis Atualizados
 
-Hi, I’m Leandro — Front-end Developer.  
+  Eu sou Leandro — Front-end Developer.  
 Acabei de atualizar meus perfis com projetos recentes e novas informações:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) — trajetória, habilidades e experiências  
