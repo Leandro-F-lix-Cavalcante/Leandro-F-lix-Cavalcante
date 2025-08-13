@@ -1,37 +1,63 @@
+Leandro Félix Cavalcante — Front-end Developer 💻  
+Aspirante a Desenvolvedor Front-end 🚀
 
+#### 💼 Sobre Mim
 
-# Olá, eu sou o Leandro Félix Cavalcante 👋
-
-💻 Estudante de [Análise e Desenvolvimento de Sistemas] | Aspirante a Desenvolvedor Front-end  
-🚀 Foco em **JavaScript**, **React** e interfaces responsivas  
-📚 Apaixonado por aprender e compartilhar conhecimento  
-
-## 🔧 Tecnologias e Ferramentas
-- HTML5 | CSS3 | JavaScript | React
-- Git & GitHub
-- VS Code
-
-## 📌 Projetos em Destaque
-- [To-Do List](link-do-repositório) — Aplicativo de gerenciamento de tarefas
-- [Outro Projeto](link)
+<p style="color: #FF6347; font-family: 'Courier New', monospace; font-size: 18px;">
+Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por desenvolvimento front-end. Foco em criar interfaces responsivas, projetos funcionais e experiências interativas utilizando <strong>JavaScript, React, HTML e CSS</strong>.
+</p>
 
 ---
-📫 **Conecte-se comigo:**
-[LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](leandrotottioficialcantor-cpu)
 
-# To-Do List
+🚀 Perfis Atualizados
 
-Aplicativo web para gerenciamento de tarefas.
+Hi, I’m Leandro — Front-end Developer.  
+Acabei de atualizar meus perfis com projetos recentes e novas informações:
 
-## 🎯 Objetivo
-Desenvolver uma aplicação simples, responsiva e funcional para gerenciar tarefas diárias.
+🔗 [LinkedIn](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) — trajetória, habilidades e experiências  
+🔗 [GitHub](https://github.com/leandrotottioficialcantor-cpu) — projetos com documentação completa + README pessoal
 
-## 🛠 Tecnologias
-- HTML5
-- CSS3
-- JavaScript
+Convido você a conhecer meu trabalho e acompanhar minha jornada em Front-end!
 
-## 📚 Aprendizados
-- Manipulação do DOM
-- Uso de eventos em JavaScript
-- Criação de interfaces responsivas
+---
+
+#### 🚀 Skills
+
+#### 🖥️ Linguagens e Frameworks
+
+<div align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+#### ⚙️ Ferramentas
+
+<div align="left">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+#### 🌱 Objetivos
+
+Crescimento contínuo na área de Front-end, com foco em interfaces responsivas, novas tecnologias e boas práticas de desenvolvimento.
+
+---
+
+#### 📬 Contato
+
+📧 [E-mail](mailto:seuemail@exemplo.com)  
+📄 [Ver meu Portfólio](https://github.com/leandrotottioficialcantor-cpu)
+
+---
+
+#### 🌐 Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrotottioficialcantor-cpu)
