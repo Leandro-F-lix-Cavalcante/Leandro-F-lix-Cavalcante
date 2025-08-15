@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/juciiara/readme-images/blob/main/Cowboy%20Tecnologia.png?raw=true" width="300" height="300">
+
 Leandro Félix Cavalcante — Front-end Developer 💻  
 Aspirante a Desenvolvedor Front-end 🚀
 
