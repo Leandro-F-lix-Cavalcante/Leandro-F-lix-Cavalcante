@@ -16,7 +16,7 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaix
   Eu sou Leandro — Front-end Developer.  
 Acabei de atualizar meus perfis com projetos recentes e novas informações:
 
-🔗 [LinkedIn] www.linkedin.com/in/leandro-félix-cavalcante — trajetória, habilidades e experiências  
+🔗 [LinkedIn](https://www.linkedin.com/in/leandro-félix-cavalcante) — trajetória, habilidades e experiências  
 🔗 [GitHub](https://github.com/leandrotottioficialcantor-cpu) — projetos com documentação completa + README pessoal
 
 Convido você a conhecer meu trabalho e acompanhar minha jornada em Front-end!
