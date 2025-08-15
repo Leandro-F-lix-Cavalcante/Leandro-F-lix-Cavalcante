@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/user-attachments/assets/cowboy-male.png" width="300" height="300">
-
 Leandro Félix Cavalcante — Front-end Developer 💻  
 Aspirante a Desenvolvedor Front-end 🚀
 
