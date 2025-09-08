@@ -62,5 +62,5 @@ Crescimento contínuo na área de Front-end, com foco em interfaces responsivas,
 
 #### 🌐 Conecte-se
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-felix-cavalcante-47a123348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://www.linkedin.com/in/leandro-f%C3%A9lix-cavalcante/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrotottioficialcantor-cpu)
