@@ -1,9 +1,14 @@
-<img align="right" src="https://github.com/juciiara/readme-images/blob/main/Cowboy%20Tecnologia.png?raw=true" width="300" height="300">
+
+ <img align="right" src="https://github.com/Leandro-F-lix-Cavalcante/imagens-readme/raw/main/bonequinho%20.jpg" alt="Bonequinho" width="300">
+
 
 Leandro Félix Cavalcante — Front-end Developer 💻  
-Aspirante a Desenvolvedor Front-end 🚀
 
-#### 💼 Sobre Mim
+**Aspirante a Desenvolvedor Front-end** 🚀
+
+---
+
+ 💼 Sobre Mim
 
 <p style="color: #FF6347; font-family: 'Courier New', monospace; font-size: 18px;">
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por desenvolvimento front-end. Foco em criar interfaces responsivas, projetos funcionais e experiências interativas utilizando <strong>JavaScript, React, HTML e CSS</strong>.
